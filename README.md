@@ -1,2 +1,2 @@
 # collaborative
-initial commit 2
+initial commit
